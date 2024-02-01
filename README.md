@@ -28,6 +28,6 @@ Greetings, amazing folks! It's been a while, hasn't it? For those joining the pa
 
 ### 📫 How to Connect
 - 📧 Email me at: [hutupasiasminadenisa@gmail.com](mailto:hutupasiasminadenisa@gmail.com)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/spookyscaryunicorn/) for professional adventures 🌐
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/iasmina-denisa-hu%C8%9Bupa%C8%99-961296253/) for professional adventures 🌐
 
 Exciting times ahead! Stay tuned for more updates, coding adventures, and the occasional sprinkle of magic! ✨🚀
