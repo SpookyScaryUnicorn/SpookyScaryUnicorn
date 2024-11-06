@@ -2,12 +2,12 @@
 
 ## 🌈 LiVE and Thriving! 🌟
 
-Greetings, amazing folks! It's been a while, hasn't it? For those joining the party for the first time, a warm hello, good evening/afternoon/morning, and a hearty welcome to my one-person coding carnival! Let's dive into the essentials:
+Greetings, amazing folks! It's been a while, hasn't it? For those joining the party for the first time, a warm hello, good evening/afternoon/morning, and a hearty welcome to my one-person coding extravaganza! Let's dive into the essentials:
 
 ### 👋 About Me
 - Hi, I’m [@SpookyScaryUnicorn](https://github.com/SpookyScaryUnicorn) 🦄
 - 👀 I’m passionate about games, books, and all things fascinating!
-- 🎓 Currently rocking my fourth semester at [@FontyUniversityOfAppliedSciences](https://fontyuniversity.edu)
+- 🎓 Currently rocking my fifth semester at [@FontyUniversityOfAppliedSciences](https://fontyuniversity.edu)
 - 🏆 Holder of certificates and EduBadges in Python, C++, C#, Java, and WebDev
 
 ### 🌱 What's Cooking in the Learning Pot?
